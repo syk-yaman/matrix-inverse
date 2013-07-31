@@ -1,7 +1,7 @@
 Matrix Inverse Program
 ======================
 
-• Calculates inverse of matrix depending on Gauss method.
+• Calculates inverse of matrix depending on Gauss method.\n
 • Step-by-step mode.
 • Unlimited dimension.
 • 8 numbers precision after point.
