@@ -1,6 +1,6 @@
 Matrix Inverse Program
 ======================
-
+ 
 • Calculates inverse of matrix depending on Gauss method.
 • Step-by-step mode.
 • Unlimited dimension.
