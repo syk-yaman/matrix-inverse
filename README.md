@@ -1,4 +1,4 @@
-Matrix Inverse Prgram
+Matrix Inverse Program
 ======================
 
 • Calculates inverse of matrix depending on Gauss method.
