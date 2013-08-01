@@ -22,14 +22,14 @@ Notice:
   http://www.yaman-ka.com/tech/Matlab-bug
   
 About:
-  Yaman Kalaji , E-Mail : info@yaman-ka.com
-  Antranig Momjian , E-Mail : www.antranigmom@hotmail.com
-	Rami Haffar , E-Mail : ram22293@hotmail.it  
-  University of Aleppo,Syria
-  Electrical and Electronic Engineering Faculty
-  Computer engineering department 
+  Yaman Kalaji , E-Mail : info@yaman-ka.com .
+  Antranig Momjian , E-Mail : www.antranigmom@hotmail.com .
+  Rami Haffar , E-Mail : ram22293@hotmail.it . 
+  University of Aleppo,Syria . 
+  Electrical and Electronic Engineering Faculty . 
+  Computer engineering department . 
   
 
-  Copyright © 2013 Yaman Kalaji, Antranig Momjian, Rami Haffar 
+  Copyright © 2013 Yaman Kalaji, Antranig Momjian, Rami Haffar . 
   Website : www.yaman-ka.com
 
